@@ -18,8 +18,7 @@ classifiers = [
     "Operating System :: OS Independent",
     "Intended Audience :: Developers",
     "Natural Language :: English",
-    "Programming Language :: Python :: 3",
-    "Topic :: Scientific/Engineering :: Robotics",
+    "Programming Language :: Python :: 3"
 ]
 
 dependencies = [
